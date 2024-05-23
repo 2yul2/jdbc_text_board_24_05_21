@@ -52,6 +52,7 @@ public class App {
                 System.out.println("잘못된 명령어입니다");
             }
         }
+
         sc.close();
     }
 }
